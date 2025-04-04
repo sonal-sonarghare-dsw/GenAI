@@ -34,7 +34,7 @@ git config --list
 mkdir my-project
 cd my-project
 git init   # Starts a new Git repo
-ls -a      # Shows hidden `.git` directory
+dir /a      # Shows hidden `.git` directory
 ```
 
 ### B. Clone a Remote Repository
@@ -68,6 +68,9 @@ git status
 git add file1.txt file2.txt  # Specific files
 git add .                    # Everything
 git add *.txt                # All .txt files
+
+# Again Check current status
+git status
 
 # Commit staged changes
 git commit -m "Initial commit"
@@ -111,7 +114,7 @@ git branch -d feature-x
 ### 🔗 Add a Remote Repo (if not added)
 
 ```bash
-git remote add origin https://github.com/username/repo.git
+git remote add origin https://github.com/username/repo.git   # It connects your local Git repository to a remote GitHub repository.
 ```
 
 ### 📤 Push Changes to Remote
