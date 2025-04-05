@@ -24,7 +24,7 @@ Each module is organized into a folder, and each topic is documented in dedicate
 **Goal:** Learn foundational Python concepts and environment setup for GenAI workflows.
 
 - #### 📂 [Python Environment](https://github.com/sonal-sonarghare-dsw/GenAI/tree/main/1.%20Python%20Fundamentals/Python%20Environment) → Covers Virtual Environments, Anaconda, Conda, pip, and package management.  
-  📄 [`python_env.md`](https://github.com/sonal-sonarghare-dsw/GenAI/blob/main/1.%20Python%20Fundamentals/Python%20Environment/python_env.md)
+  📄[`python_env.md`](https://github.com/sonal-sonarghare-dsw/GenAI/blob/main/1.%20Python%20Fundamentals/Python%20Environment/python_env.md)
 
 ---
 
@@ -33,12 +33,11 @@ Each module is organized into a folder, and each topic is documented in dedicate
 **Goal:** Master Git and GitHub for collaborative AI development.
 
 - #### 📂 [Git](https://github.com/sonal-sonarghare-dsw/GenAI/tree/main/2.%20Version%20Control%20System%20-%20GIT/Git) → Core Git commands, workflow practices, cloning, committing, and remotes.  
-  📄 [`git.md`](https://github.com/sonal-sonarghare-dsw/GenAI/blob/main/2.%20Version%20Control%20System%20-%20GIT/Git/git.md)
+  📄[`git.md`](https://github.com/sonal-sonarghare-dsw/GenAI/blob/main/2.%20Version%20Control%20System%20-%20GIT/Git/git.md)
 
 - #### 📂 [GitHub](https://github.com/sonal-sonarghare-dsw/GenAI/tree/main/2.%20Version%20Control%20System%20-%20GIT/Github) → Creating and managing GitHub issues, adding labels/assignees, forks and pull requests.  
-  📄 [`issues.md`](https://github.com/sonal-sonarghare-dsw/GenAI/blob/main/2.%20Version%20Control%20System%20-%20GIT/Github/issues.md)
-  
-  📄 [`fork_pull.md`](https://github.com/sonal-sonarghare-dsw/GenAI/blob/main/2.%20Version%20Control%20System%20-%20GIT/Github/fork_pull.md)
+  📄[`issues.md`](https://github.com/sonal-sonarghare-dsw/GenAI/blob/main/2.%20Version%20Control%20System%20-%20GIT/Github/issues.md)
+  📄[`fork_pull.md`](https://github.com/sonal-sonarghare-dsw/GenAI/blob/main/2.%20Version%20Control%20System%20-%20GIT/Github/fork_pull.md)
 
 ---
 
