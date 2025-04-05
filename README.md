@@ -23,7 +23,7 @@ Each module is organized into a folder, and each topic is documented in dedicate
 
 **Goal:** Learn foundational Python concepts and environment setup for GenAI workflows.
 
-- #### 📂 [Python Environment](https://github.com/sonal-sonarghare-dsw/GenAI/tree/main/1.%20Python%20Fundamentals/Python%20Environment) → Covers Virtual Environments, Anaconda, Conda, `pip`, and package management.  
+- #### 📂 [Python Environment](https://github.com/sonal-sonarghare-dsw/GenAI/tree/main/1.%20Python%20Fundamentals/Python%20Environment) → Covers Virtual Environments, Anaconda, Conda, pip, and package management.  
   📄 [`python_env.md`](https://github.com/sonal-sonarghare-dsw/GenAI/blob/main/1.%20Python%20Fundamentals/Python%20Environment/python_env.md)
 
 ---
