@@ -65,12 +65,12 @@ They can review, comment, request changes, or merge it into their main branch.
 ## ☝️ 3 things to remember while making a pull request
 
 1. **Write small pull request**
-  - Easier to review and merge
-  - Less room for bugs
-  - Clear history of changes
+   - Easier to review and merge
+   - Less room for bugs
+   - Clear history of changes
 
 2. **Review your own pull request first**
-  - Review + build + test your PRs
+   - Review + build + test your PRs
 
 3. **Provide context and Guidance**
-  - Help your reviewer by writing clear titles and descriptions and add links!
+   - Help your reviewer by writing clear titles and descriptions and add links!
